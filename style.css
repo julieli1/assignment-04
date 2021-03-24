@@ -1,0 +1,31 @@
+.body {
+  background-color: #bed6fa;
+}
+
+.title {
+  text-align: center;
+  border-style: double;
+}
+
+.button {
+  color: #112747;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#lisa-anthony {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-style: double;
+  width: 300px;
+  height: 400px;
+}
+
+#quote {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 110%;
+}
